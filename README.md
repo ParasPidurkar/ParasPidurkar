@@ -65,7 +65,7 @@
 5. 🗣 Commented on [#124](https://github.com/draftbit/twitter-lite/issues/124) in [draftbit/twitter-lite](https://github.com/draftbit/twitter-lite) -->
 <!--END_SECTION:activity-->
 
-<img alt="0xSebin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ishkapoor2000&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<!-- <img alt="0xSebin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ishkapoor2000&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /> -->
 
 <!-- [![](./images/peerlist-profile.png)](https://peerlist.io/ishkapoor) -->
 
