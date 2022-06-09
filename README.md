@@ -53,6 +53,10 @@
   </a>
 </p> -->
 
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ## Spotify Playing 🎧
 ![See what Ish is playing](https://spotify-recently-played-readme.vercel.app/api?user=31kktsuzcjget5ji54nlj5milptm&width=700&count=7)
 
