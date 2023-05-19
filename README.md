@@ -13,9 +13,6 @@
 
 - 🔭 I’m currently working at <a href="https://www.lgsoftindia.com/" alt="https://www.lgsoftindia.com/" />LGSoftIndia</a>, as a Research Engineer.
 - 💬 You can ask me about Linux development, Javascript, C, C++ & Yocto project.
-- 👯 I’m looking to collaborate on Blockchain, OpenCV and OS projects.
-- 🌱 I’m currently learning GOlang JS, System programming.
-- 🎮 Play _**Dark Corner**_ & _**Dark Corner: v2 Mobile**_ at my [**itch.io page**](https://paraspidurkar.itch.io).
 - 📫 How to reach me: <a href="#connect-with-me" rel="noopener" target="_blank">Connect with me</a>.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ParasPidurkar" alt="ParasPidurkar" /></a></p>
 
