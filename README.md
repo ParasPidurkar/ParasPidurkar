@@ -24,7 +24,6 @@
   <a href="https://linkedin.com/in/paras-pidurkar-aba252136" target="blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="paraspidurkar" height="40" width="40" /></a>
   <a href="https://fb.com/paraspidurkar" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/733/733547.png" alt="Paras Pidurkar" height="40" width="40" /></a>
   <a href="mailto:paraspidurkar97@gmail.com?'Reching out to you'='Hi, I want to enwuire about...'" rel="noopener" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="2000_i_k" height="40" width="40" /></fa>
-  <a href="https://instagram.com/2000_i_k" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" alt="2000_i_k" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
