@@ -5,7 +5,7 @@
 <h3 align="center">I am Paras</h3>
 <h3 align="center">A passionate engineer from India 
   <span>
-    <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/154/flag-for-india_1f1ee-1f1f3.png" alt="Flag of INDIA" width="28" />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dindian%2Bflag&psig=AOvVaw0z16wH7yg2MCpp34pW1t3T&ust=1697226699559000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjp0oak8YEDFQAAAAAdAAAAABAE" alt="Flag of INDIA" width="28" />
   </span>
 </h3>
 
